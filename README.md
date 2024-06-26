@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Meiwei,
+## 👋 Hey there, I'm Meiwei！
 
 I'm a graduate student at Northeastern University, aspiring to become a full-stack or software developer. Passionate about creating robust and user-friendly software solutions. I'm always excited to connect with new people and exchange ideas.
 
