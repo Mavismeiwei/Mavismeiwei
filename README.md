@@ -9,9 +9,6 @@ I'm a graduate student at Northeastern University, aspiring to become a full-sta
 - **Tools:** GitHub, VS Code, Docker, Jenkins, Postman
 
 ### 🌟 Interests:
-- 💪 Fitness
-- 🏃 Running
-- 🍜 Food Lover
-- 📚 Learning
+💪 Fitness  🏃 Running  🍜 Food Lover  📚 Learning
 
 ### 🔗 [LinkedIn](https://www.linkedin.com/in/meiwei-zhang/) | [Portfolio](https://mavismeiwei.github.io/meiwei_portfolio/) | [GitHub](https://github.com/Mavismeiwei)
